@@ -1,0 +1,18 @@
+# Veritabanı dosyaları
+*.db
+*.sqlite
+
+# Şifreler ve gizli ayarlar
+.env
+config.php
+
+# Editör ve sistem dosyaları
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Kişisel notlar
+gizli-notlar.txt
+
+# Log dosyaları
+*.log
